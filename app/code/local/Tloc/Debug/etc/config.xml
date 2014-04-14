@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Tloc_Debug>
+            <version>0.0.1</version> 
+        </Tloc_Debug>
+    </modules>
+    <global>
+        <helpers>
+            <tloc_debug>
+                <class>Tloc_Debug_Helper</class>
+            </tloc_debug>
+        </helpers>
+    </global>
+</config>

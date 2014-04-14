@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Tloc_Debug>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Tloc_Debug>
+    </modules>
+</config>
